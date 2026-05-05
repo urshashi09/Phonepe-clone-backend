@@ -84,11 +84,6 @@ From there, you can explore all available endpoints and test them out directly.
 - `POST /api/transaction/send` - Send money to another user by phone number (Requires Auth)
 - `GET /api/transaction/history` - View all past transactions (Requires Auth)
 
-## 🗄️ Database Seeding
 
-To populate the database with initial dummy data:
-```bash
-npm run seed
-```
 
 
